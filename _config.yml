@@ -49,7 +49,7 @@ round-avatar: true
 social-network-links:
   email: "me@lornebooker.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  #facebook: deanattali
   github: lornebookerr
   #twitter: daattali
   #patreon: DeanAttali
@@ -92,7 +92,7 @@ rss-description: IT Management and Systems Administration blog
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
   reddit: false
