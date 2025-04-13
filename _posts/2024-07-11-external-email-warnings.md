@@ -28,7 +28,7 @@ Set-ExternalInOutlook -Enabled $true
 
 That's it! Any emails from outside your organisation will now be tagged with "External", as the example below shows. Subtle, but effective.
 
-![External Tag](https://github.com/lornebookerr/lornebooker.com/blob/main/assets/img/posts/externalmail.png)
+![External Tag](https://github.com/lornebookerr/lornebooker.com/blob/main/assets/img/posts/externalmail.png?raw=true)
 
 Let's say you're part of a MAT, or use an external helpdesk system that doesn't necessarily have the same domain as you; domains can be easily whitelisted from this tag using the same PowerShell library. 
 
@@ -56,7 +56,7 @@ If you want something a bit more in-your-face, a bright red warning at the top o
 
 Here's an example of what I put at the top of external emails.
 
-![The Big Red Banner](https://github.com/lornebookerr/lornebooker.com/blob/main/assets/img/posts/bigredbanner.png)
+![The Big Red Banner](https://github.com/lornebookerr/lornebooker.com/blob/main/assets/img/posts/bigredbanner.png?raw=true)
 
 ```html
 <div style="padding-top: 2px; padding-left: 5px; padding-right: 5px; padding-bottom: 5px;">
